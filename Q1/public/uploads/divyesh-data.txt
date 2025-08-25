@@ -1,0 +1,8 @@
+
+      Username: divyesh
+      Email: div@gmail.com
+      Gender: Male
+      Hobbies: Reading, Sports
+      Profile Pic: 1756161469585-1755970483335-Screenshot 2025-05-10 092331.png
+      Other Pics: 1756161469587-1755970483348-Screenshot 2025-05-18 091344.png
+    
